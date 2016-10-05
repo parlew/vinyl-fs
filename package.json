@@ -5,9 +5,10 @@
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
   "contributors": [
     "Eric Schoffstall <yo@contra.io>",
-    "Blaine Bublitz <blaine.bublitz@gmail.com>"
+    "Blaine Bublitz <blaine.bublitz@gmail.com>",
+    "Andrew T. Finnell <afinnell@parlew.com"
   ],
-  "repository": "gulpjs/vinyl-fs",
+  "repository": "parlew/vinyl-fs",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
